@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF-1,Наш Детектив.
+http://50.7.120.165:8081/semeinoe/index.m3u8?wmsAuthSign=7ffab493660fa3c6bd16f0d5d32d4458-1572277319-1i041i44i491
+#EXTINF-1,КиноПремиум HD
+http://50.7.127.59:8081/kinoprem/index.m3u8?wmsAuthSign=ab6c9569dfb39af9ed78021267d336cd-1572277357-1i041i44i491
+#EXTINF-1,Морской
+http://50.7.120.165:8081/morskoi/index.m3u8?wmsAuthSign=bc256f8537c62d1160a8709e4e9d770e-1572277398-1i041i44i491
+#EXTINF-1,Galaxy TV
+http://50.7.127.59:8081/galaxy/index.m3u8?wmsAuthSign=30d37a7544371fbd811fe474aad0d7a2-1572277436-1i041i44i491
